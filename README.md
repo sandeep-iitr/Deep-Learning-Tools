@@ -21,4 +21,7 @@ First Generation from academia, and industry later finally adopted and have move
 # Computation Graph
 - The computation of the entire task in the graph structure, which may become complex.
 - Tools: Easy to define the compuation (make the graph), compute gradients, run it efficiently. Less effort to make the system running.
-
+- Codes looks very similar to NUMPY, but it runs on GPU. 
+  - NUMPY: Doesn't run on GPU. Have to compute our own gradients.
+  - Frameworks: automatically compute gradients and run on GPU.
+  
