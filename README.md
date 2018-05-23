@@ -44,3 +44,8 @@ Three different levels of abstractions
 ## Caffe
 - Define network in Prototxt file, and solvers.
 - Run the caffe binary. No code to be written.
+
+### Caffe2
+- Similar to TF. Core in C++.
+- Nice Python Interface.
+- Can train model in Python. 
