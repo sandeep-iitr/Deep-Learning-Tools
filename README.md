@@ -49,3 +49,10 @@ Three different levels of abstractions
 - Similar to TF. Core in C++.
 - Nice Python Interface.
 - Can train model in Python. 
+
+
+## Sensing, Sensor Data
+- ML tools are used a lot for sensor dataset. Ubiquitous Computing term was coined by [Prof. Mark Weiser](https://en.wikipedia.org/wiki/Mark_Weiser). Today, this capability of computing on every device has made it possible to have ML on every device.
+
+## Research Questions
+ML has driven research in many applications and has provided state of art inferences.
