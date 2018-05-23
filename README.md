@@ -32,3 +32,11 @@ First Generation from academia, and industry later finally adopted and have move
 
 ## Higher Level Libraries Around TensorFlow
 - layers in Tensorflow.
+- Keras is high level wrapper around TensorFlow. It is easy to use, and have a good community support.
+- Different wrappers for TensorFlow are available: Like: Sonnet from DeepMind
+
+## PyTorch
+Three different levels of abstractions
+- Tensor: It is an array which runs on GPU.
+- Variable: Builds up computations graph. Equivalent to kind of Tensor, variable, Placeholders in TF
+- Module: Neural network layer, which can be combined. Equivalent to higher level frameworks like layers in TF.
