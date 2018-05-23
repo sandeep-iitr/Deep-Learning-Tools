@@ -37,6 +37,6 @@ First Generation from academia, and industry later finally adopted and have move
 
 ## PyTorch
 Three different levels of abstractions
-- Tensor: It is an array which runs on GPU.
+- Tensor: It is an array which runs on GPU. Numpy with GPU
 - Variable: Builds up computations graph. Equivalent to kind of Tensor, variable, Placeholders in TF
 - Module: Neural network layer, which can be combined. Equivalent to higher level frameworks like layers in TF.
