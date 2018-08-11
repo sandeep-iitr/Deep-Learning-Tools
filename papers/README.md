@@ -10,3 +10,8 @@ parameters.
 - by David Hubel. The Journal of physiology (1959)
 - Studies on cat brain shows, different neuron responds to different types of information/input and complexity is build from simple 
 information to complex information in the visual processing pipeline of bilogical brain.
+
+## 3. What size net gives valid generalization
+- by Eric B. Baum. Advances in neural information processing systems. 1989
+- Works on number of weights in the network, training examples, desired accuracy on the test examples drawn from same distribution as the training examples. For examples: To get an accuracy of 90%, we might need 10 times the number of training examples as the number of weights in the network.
+
