@@ -15,3 +15,5 @@ information to complex information in the visual processing pipeline of bilogica
 - by Eric B. Baum. Advances in neural information processing systems. 1989
 - Works on number of weights in the network, training examples, desired accuracy on the test examples drawn from same distribution as the training examples. For examples: To get an accuracy of 90%, we might need 10 times the number of training examples as the number of weights in the network.
 
+## 4. DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition
+- by Jeff Donahue. International Conference on Machine Learning. 2014
