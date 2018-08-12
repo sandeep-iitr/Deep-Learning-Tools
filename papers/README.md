@@ -21,3 +21,4 @@ information to complex information in the visual processing pipeline of bilogica
 
 ## 5. Generative Adversarial Networks
 - by Ian Goodfellow. NIPS 2016
+- [video](https://www.youtube.com/watch?v=AJVyzd0rqdc)
