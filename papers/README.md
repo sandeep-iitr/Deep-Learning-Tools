@@ -17,3 +17,7 @@ information to complex information in the visual processing pipeline of bilogica
 
 ## 4. DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition
 - by Jeff Donahue. International Conference on Machine Learning. 2014
+
+
+## 5. Generative Adversarial Networks
+- by Ian Goodfellow. NIPS 2016
